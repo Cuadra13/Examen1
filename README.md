@@ -6,3 +6,4 @@
 <p> Nelson Francisco Cuadra Martínez </p>
 <p> 61941159 </p>
 </ul>
+https://app.genmymodel.com/api/projects/_7ABu4GCNEe2ck8ytUMEi6A/diagrams/_7ABu42CNEe2ck8ytUMEi6A/svg
